@@ -1,0 +1,43 @@
+	* {font-family:Arial, Helvetica, sans-serif;}
+	
+	body {
+		background-color:azure;
+	}
+	
+	h1, h2 {
+		color:rgb(25, 25, 112);
+	}
+	
+	a {
+		text-decoration:none;
+		}
+		
+	a:hover {
+		font-weight: bold;
+
+	}
+	
+	
+	.righthead {
+		float:right;
+	}
+	
+	.btn {
+		background-color: azure;
+		color: rgb(25, 25, 112);
+		border: 2px solid rgb(25, 25, 112);
+		padding: 5px;
+		text-align: center;
+		text-decoration: none;
+		display: inline-block;
+		font-size: 14px;
+		margin: 4px 2px;
+		cursor: pointer;
+		border-radius: 10px;
+	}
+
+	.btn:hover {
+		background-color: rgb(25, 25, 112);
+		color: azure;
+		border: 2px solid azure;
+	}
